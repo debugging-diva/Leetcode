@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/debugging-diva/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/debugging-diva/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/debugging-diva/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/debugging-diva/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/debugging-diva/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/debugging-diva/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/debugging-diva/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/debugging-diva/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/debugging-diva/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
