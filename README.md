@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugging-diva/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/debugging-diva/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/debugging-diva/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugging-diva/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -104,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/debugging-diva/Leetcode/tree/master/0020-valid-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/debugging-diva/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/debugging-diva/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/debugging-diva/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
